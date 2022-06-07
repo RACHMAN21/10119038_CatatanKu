@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">10119038_CatatanKu</string>
+    <string name="codingslothlogo">CodingSlothLogo</string>
+    <string name="copyright_by_rachman_aldiansyah_2022">Copyright by Rachman Aldiansyah 2022</string>
+    <string name="_10119038_rachman_aldiansyah">10119038-Rachman Aldiansyah</string>
+    <string name="profile_mahasiswa">Profile Mahasiswa</string>
+    <string name="my_profile">my profile</string>
+    <string name="profil_mahasiswa">Profil Mahasiswa</string>
+    <string name="kembali">Kembali</string>
+    <string name="catatanku_apps">CatatanKu Apps</string>
+    <string name="atur_produktivitas_anda_dengan_mudah">\'Atur produktivitas anda dengan mudah\'</string>
+    <string name="catatanku_app">CatatanKu App</string>
+    <string name="mengatur_produktivitas_anda_dengan_mudah">Mengatur Produktivitas Anda Dengan Mudah</string>
+    <string name="nim_10119038">NIM : 10119038</string>
+    <string name="nama_rachman_aldiansyah">Nama : Rachman Aldiansyah</string>
+    <string name="kelas_if_1">Kelas : IF-1</string>
+    <string name="email_rachman_10119038_mahasiswa_unikom_ac_id">Email : rachman.10119038@mahasiswa.unikom.ac.id</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="aplikasi_catatan_harian_inovatif">Aplikasi Catatan Harian Inovatif!</string>
+    <string name="versi_aplikasi_v1_0">Versi Aplikasi : v1.0</string>
+    <string name="created_by_rachman_aldiansyah">Created by Rachman Aldiansyah</string>
+    <string name="tahun_2022">Tahun 2022</string>
+    <string name="rachman_10119038_mahasiswa_unikom_ac_id">rachman.10119038@mahasiswa.unikom.ac.id</string>
+    <string name="about_logo">About Logo</string>
+    <string name="splash_book_logo">Splash Book Logo</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="profil">Profil</string>
+    <string name="tambah">Tambah</string>
+    <string name="tentang">Tentang</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_fragment">About Fragment</string>
+    <string name="add_notes_fragment">Add Notes Fragment</string>
+    <string name="tambah_tugas">Tambah Tugas</string>
+    <string name="catatan_baru">Catatan Baru</string>
+</resources>
